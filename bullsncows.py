@@ -10,7 +10,7 @@ BULLS & COWS
 """
 
 number = "".join(map(str, random.sample([1, 2, 3, 4, 5, 6, 7, 8, 9, 0],  4) ))
-print number #cheatcode
+#print number #cheatcode
 
 guess = 0
 while not guess:
